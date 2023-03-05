@@ -1,0 +1,5 @@
+memory\cache\WriteBackTest.class
+memory\cache\AssociativeMappingTest.class
+memory\cache\DirectMappingTest.class
+memory\cache\WriteThroughTest.class
+memory\cache\SetAssociativeMappingTest.class
